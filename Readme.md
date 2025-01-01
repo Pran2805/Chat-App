@@ -1,0 +1,2 @@
+# Chat-App
+ChatApp is a real-time messaging application designed to provide users with a seamless and interactive chat experience. It features user authentication, instant messaging, and more to make communication simple and efficient.
